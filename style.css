@@ -9,6 +9,7 @@
     max-width: 1200px;
 }
 
+
 .top {
     display: flex;
     position: relative;
@@ -176,3 +177,5 @@ a {
 .nav-link {
     color: green;
 }
+
+
